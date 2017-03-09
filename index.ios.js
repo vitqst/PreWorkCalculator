@@ -9,7 +9,7 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View,Navigator
+  View
 } from 'react-native';
 
 
