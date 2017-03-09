@@ -1,0 +1,22 @@
+dependencies: \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTBridge.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTLog.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTAssert.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/RCTComponent.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Base/RCTUtils.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/RCTView.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Project/preWorkReactNative/PreWorkCalculator/node_modules/react-native/React/Views/UIView+React.h
