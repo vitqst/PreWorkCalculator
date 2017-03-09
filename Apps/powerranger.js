@@ -43,12 +43,6 @@ export default class Powerrange extends Component {
         <Navigator
           initialRoute={{id: 'CalculatorPage'}}
           renderScene={this.renderScene.bind(this)}
-          configureScene={(route) => {
-            if (route.sceneConfig) {
-              return route.sceneConfig;
-            }
-            return Navigator.SceneConfigs.FloatFromRight;
-          }}
           navigationBar={
               <Navigator.NavigationBar
                     style = { styles.navigationBar }

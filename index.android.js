@@ -9,7 +9,7 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,Navigator
 } from 'react-native';
 import Powerrange from './Apps/powerranger.js'
 export default class PreWorkCalculator extends Component {

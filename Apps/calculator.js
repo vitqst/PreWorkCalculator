@@ -69,21 +69,15 @@ getSegementValues(){
                 />
             </View>
             <View>
-                <Text>
-                    Tip amount : 0
-                </Text>
-                
-            </View>
-            <View>
                 <SegmentedControlTab
                     values={this.getSegementValues()}
                     onTabPress= {index => this.handleSegmentChange(index)}
                     />
             </View>
             <View>
-                <Text>Bill input : {this.state.billAmount}</Text>
-                <Text>Tip amount : {this.state.tipAmount}</Text>
-                <Text>Segment control : {this.getSegementValues()[this.state.segmentSelectedIndex]}</Text>
+                <Text style={styles.text}>Bill input : {this.state.billAmount}</Text>
+                <Text style={styles.text}>Tip amount : {this.state.tipAmount}</Text>
+                <Text style={styles.text}>Segment control : {this.getSegementValues()[this.state.segmentSelectedIndex]}</Text>
             </View>
             <View>
                 <Text style={styles.special_item}>Result : {this.state.result}</Text>
@@ -103,8 +97,12 @@ const styles = StyleSheet.create({
     textAlign: 'center'
   },
   special_item:{
+      marginTop: 5,
       fontSize: 20,
       fontWeight:'bold'
+  },
+  text:{
+      marginTop: 5,
   }
 });
 
